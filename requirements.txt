@@ -2,4 +2,3 @@ requests
 colorama
 asyncio
 aiohttp
-random
